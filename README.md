@@ -1,6 +1,9 @@
 # spitzer
 Reduced Ice Giant planet data from the Spitzer Space Telescope Infrared Spectrograph (IRS)
 
+0002_2_11072768_trim.txt
+nod_order_longitude_trim.txt
+
 Longitudes
 2007: 
 L1 24597504
