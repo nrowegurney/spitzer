@@ -1,6 +1,7 @@
 # spitzer
 Reduced Ice Giant planet data from the Spitzer Space Telescope Infrared Spectrograph (IRS)
 
+URANUS:
 0002_2_11072768_trim.txt
 nod_order_longitude_trim.txt
 
@@ -33,3 +34,11 @@ LL2 N1 = 0008
 LL2 N2 = 0009
 LH N1 = 0010
 LH N2 = 0011
+
+NEPTUNE:
+Sl, SH and LH (SL also available in separate orders 1, 2 and 3)
+2006 = v2 (1 longitude)
+2005 = v1 (3 longitudes)
+  SL_v1L1 = 14784512
+  SL_v1L2 = 14784768
+  SL_v1L3 = 15911424
