@@ -35,7 +35,7 @@ LL2 N2 = 0009
 LH N1 = 0010
 LH N2 = 0011
 
-NEPTUNE:
+NEPTUNE (inside NRG_Neptune folder):
 Sl, SH and LH (SL also available in separate orders 1, 2 and 3)
 2006 = v2 (1 longitude)
 2005 = v1 (3 longitudes)
