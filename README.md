@@ -36,9 +36,21 @@ LH N1 = 0010
 LH N2 = 0011
 
 NEPTUNE (inside NRG_Neptune folder):
-Sl, SH and LH (SL also available in separate orders 1, 2 and 3)
+SL, SH and LH (SL also available in separate orders 1, 2 and 3)
 2006 = v2 (1 longitude)
 2005 = v1 (3 longitudes)
   SL_v1L1 = 14784512
   SL_v1L2 = 14784768
   SL_v1L3 = 15911424
+2004 cy1 (cycle 1)
+  cy1L1 = 11073536
+  cy1L2 = 11073792
+  cy1L3 = 11074048
+  cy1L4 = 11074560
+2004 (as in Meadows et al 2008)
+  meadL1 = 4525056
+  meadL2 = 4525312
+  meadL3 = 4525568
+
+
+
